@@ -1,0 +1,13 @@
+/*
+Schreiben Sie bitte ein C#-Programm, das 
+a) eine Integer-Variable g einführt, die für alle Funktionen in der Klasse 'Program' gültig ist
+b) eine Integer-Variable h einführt, die nur im Main gültig ist
+c) eine Funktion besitzt, die im Main aufgerufen werden kann und g-mal "Hallo" auf der Konsole ausgibt 
+d) im Main h-mal "Welt" auf der Konsole ausgibt
+e) zur Kontrolle im Main die beiden Werte g und h auf der Konsole ausgibt
+f) die Konsole bis zu einem beliebigen Tastendruck festhält
+
+Hinweis: 
+Das Erlernen von ANSI C war nicht sinnlos ;-) ...
+... for-Schleifen sehen bei C# genauso aus wie bei C
+*/
